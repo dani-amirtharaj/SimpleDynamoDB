@@ -1,0 +1,7 @@
+#Internal package file, do not edit.
+#Sun Apr 28 16:09:22 EDT 2019
+0.baseType=DIRECTORY
+0.base=C\:\\Users\\Dan\\Documents\\UB Course Work\\DS\\Project 4\\SimpleDynamo\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+0.path=classes.dex
+0.set=DEX
+count=1
